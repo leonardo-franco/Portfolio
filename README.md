@@ -2,34 +2,35 @@
 
 ## About Me
 
-Olá! Meu nome é Leonardo Franco Lima, tenho 15 anos e sou entusiasta de programação desde 2020. Atualmente, estou cursando o técnico em Desenvolvimento de Sistemas no SENAC RS, onde tenho a oportunidade de aprimorar minhas habilidades e conhecimentos na área de tecnologia.
+Hello! My name is Leonardo Franco Lima, and I'm a **programming enthusiast** since 2020. Currently, I am pursuing a degree in **Systems Development** at SENAC RS, where I have the opportunity to enhance my skills and knowledge in the field of technology.
 
 ## Skills
 
-- Python
-- Flutter
-- Metodologias Ágeis
+- **Python**
+- **Flutter**
+- **Agile Methodologies**
 
 ## Projects
 
-Durante minha jornada de aprendizado, tive a oportunidade de trabalhar em projetos diversos, que incluem desde aplicações simples até soluções mais complexas. Alguns dos projetos mais relevantes estão listados em meu portfólio, onde demonstro a aplicação de conceitos de programação e desenvolvimento de sistemas.
+During my learning journey, I have had the opportunity to work on various projects, ranging from simple applications to more complex solutions. Some of the most relevant projects are listed in my portfolio, where I demonstrate the application of **programming** and **system development** concepts.
 
 ## Contact
 
-Sinta-se à vontade para entrar em contato comigo através das seguintes plataformas:
+Feel free to get in touch with me through the following platforms:
 
-- E-mail: <leonardoflima14@gmail.com>
-- Instagram: <https://www.instagram.com/lleofranco12/>
+- **Email:** <leonardoflima14@gmail.com>
+- **Instagram:** [lleofranco12](https://www.instagram.com/lleofranco12/)
 
 ## Education
 
-- Técnico em Desenvolvimento de Sistemas - SENAC RS (2022 - Presente)
+- **Systems Development Technician** - SENAC RS (2022 - Present)
+- **High School with Integrated Technical Course in Plastics** - Federal Institute of Education, Science, and Technology of Rio Grande do Sul - Campus Caxias do Sul
 
 ## Certifications
 
-- Lógica de programação essencial – Digital Innovation One
-- Curso de Python 3 – Curso em Vídeo
+- **Essential Programming Logic** - Digital Innovation One
+- **Python 3 Course** - Curso em Vídeo
 
 ## Interests
 
-Além da programação, tenho interesse em áreas como inteligência artificial, ciência de dados e aprendizado de máquina. Estou sempre em busca de novos desafios e oportunidades para expandir meu conhecimento e contribuir com projetos inovadores.
+In addition to programming, I am interested in areas such as **artificial intelligence**, **data science**, and **machine learning**. I am always looking for new challenges and opportunities to expand my knowledge and contribute to innovative projects.
