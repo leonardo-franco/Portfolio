@@ -1,5 +1,7 @@
 # Leonardo Franco Lima
 
+![My Photo](/assets/img.jpg)
+
 ## About Me
 
 Hello! My name is Leonardo Franco Lima, and I'm a **programming enthusiast** since 2020. Currently, I am pursuing a technician in **Systems Development** at SENAC RS, where I have the opportunity to enhance my skills and knowledge in the field of technology.
