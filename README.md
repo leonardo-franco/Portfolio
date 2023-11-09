@@ -20,7 +20,7 @@ During my learning journey, I have had the opportunity to work on various projec
 
 - Application that assists judges in robotics competitions:
 
-  Technologies Used: Flutter, Dart
+  Technologies Used: Flutter, Dart  
   [Robolab App](https://github.com/leonardo-franco/pontuador_robolab)
 
 ## Contact
