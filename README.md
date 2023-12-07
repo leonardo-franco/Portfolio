@@ -4,8 +4,7 @@
 
 ## Sobre Mim
 
-Olá! Meu nome é Leonardo Franco Lima, Tenho 15 anos e atualmente estou a procura de uma oportunidade na área de tecnologia.
-Desde 2020 eu venho estudando e me aprofundando em assuntos relacionados a programação, e neste ano eu comecei o Curso Técnico em Desenvolvimento de Sistemas no SENAC RS.
+Olá! Meu nome é Leonardo Franco Lima, Tenho 15 anos e atualmente estou a procura de uma oportunidade na área de tecnologia. Sou uma pessoa curiosa e que gosta de aprender, me interesso por tudo relacionado a programação.
 
 ## Hard Skills
 
