@@ -32,6 +32,8 @@ Olá! Meu nome é Leonardo Franco Lima, Tenho 15 anos e atualmente estou a procu
   - Adição de uma tela de login
   - Implementação de um banco de dados SQLlite para guardar as pontuações;
   - Criação de uma tela de login;
+  - Lógica de validação de usuário por meio de um banco de dados através da biblioteca sqflite;
+  - Adição de uma tela de cadastro com validação de senha;
   - Criação de uma tela para mostrar um ranking das pontuações em ordem decrescente.
 
 ## Histórico Escolar
