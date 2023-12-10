@@ -46,6 +46,7 @@ Olá! Meu nome é Leonardo Franco Lima, Tenho 15 anos e atualmente estou a procu
 - **Curso de Robótica - 2 Módulos** - Instituto Federal de Educação, Ciência, e Tecnologia do Rio Grande do Sul - Campus Caxias do Sul
 - **Medalha de Melhor Programação na Olímpiada Brasileira de Robótica - Etapa Estadual** - OBR 2023
 - **Metodologias Ágeis - Scrum e Kanban** - Digital Innovation One
+- **Inglês Avançado - Nível B2** - You-C English School
 
 ## Interesses
 
