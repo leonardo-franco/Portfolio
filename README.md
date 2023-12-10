@@ -24,7 +24,7 @@ Olá! Meu nome é Leonardo Franco Lima, Tenho 15 anos e atualmente estou a procu
 
 ## Projetos em que contribui
 
-- Aplicativo de um pontuador para competições de robótica - [Robolab App](https://github.com/leonardo-franco/pontuador_robolab)
+- Aplicativo de um pontuador para competições de robótica - [Robolab App](https://github.com/coimbrox/pontuador_robolab)
   
   Minhas Contribuições:
   - Implementação da lógica de soma;
