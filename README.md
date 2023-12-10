@@ -22,18 +22,23 @@ Olá! Meu nome é Leonardo Franco Lima, Tenho 15 anos e atualmente estou a procu
 - Adaptabilidade
 - Aprendizado Contínuo
 
-## Projetos que criei ou que ajudei
+## Projetos em que contribui
 
 - Aplicativo de um pontuador para competições de robótica - [Robolab App](https://github.com/leonardo-franco/pontuador_robolab)
   
   Minhas Contribuições:
   - Implementação da lógica de soma;
+  
   - Ajustes de Design (Botões responsivos, gradiente, telas adicionais);
-  - Adição de uma tela de login
+    
+  - Adição de uma tela de login;
+    
   - Implementação de um banco de dados SQLlite para guardar as pontuações;
-  - Criação de uma tela de login;
+    
   - Lógica de validação de usuário por meio de um banco de dados através da biblioteca sqflite;
+    
   - Adição de uma tela de cadastro com validação de senha;
+    
   - Criação de uma tela para mostrar um ranking das pontuações em ordem decrescente.
 
 ## Histórico Escolar
