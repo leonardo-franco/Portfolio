@@ -8,12 +8,23 @@ Olá! Meu nome é Leonardo Franco Lima, Tenho 15 anos e atualmente estou a procu
 
 ## Hard Skills
 
+###Back-End
+
 - **Python**
 - **Dart**
 - **Flutter**
+- **Django**
+
+###Front-End
+
 - **HTML5**
 - **CSS**
+- **Bootstrap**
+
+###Databases
+
 - **MySQL**
+- **SQLite**
 
 ## Soft Skills
 
