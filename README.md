@@ -55,6 +55,10 @@ Olá! Meu nome é Leonardo Franco Lima, Tenho 15 anos e atualmente estou a procu
     
   - Criação de uma tela para mostrar um ranking das pontuações em ordem decrescente.
 
+ - Website de apresentação pessoal - [Site Pessoal](leonardo-franco.github.io)
+       - Este é um site que desenvolvi utilizando Html, Css e Bootstrap. Está disponível através do github pages
+       e é responsivo
+
 ## Histórico Escolar
 
 - **Técnico em Desenvolvimento de Sistemas** - SENAC RS (2023 - Atual)
