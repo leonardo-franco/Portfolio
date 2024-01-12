@@ -18,6 +18,7 @@ Olá! Meu nome é Leonardo Franco Lima, Tenho 15 anos e atualmente estou a procu
 
 - **HTML5**
 - **CSS**
+- **JavaScript**
 - **Bootstrap**
 
 ### Databases
