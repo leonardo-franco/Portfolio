@@ -11,7 +11,7 @@ Olá! Meu nome é Leonardo Franco Lima, Tenho 15 anos e atualmente estou a procu
 ### Back-End
 
 - **Python**
-- **Dart**
+- **Django**
 
 ### Front-End
 
@@ -28,7 +28,7 @@ Olá! Meu nome é Leonardo Franco Lima, Tenho 15 anos e atualmente estou a procu
 ### Mobile
 
 - **Flutter**
-- **Django**
+- **Dart**
 
 ## Soft Skills
 
