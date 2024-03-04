@@ -88,3 +88,4 @@ Sinta-se a vontade para entrar em contato comigo através dos seguintes canais d
 
 - **Email:** <leonardoflima14@gmail.com>
 - **Instagram:** [lleofranco12](https://www.instagram.com/lleofranco12/)
+- **Telefone:** (54) 991592954
