@@ -4,7 +4,7 @@
 
 ## Sobre Mim
 
-Olá! Meu nome é Leonardo Franco Lima, Tenho 15 anos e atualmente estou a procura de uma oportunidade na área de tecnologia. Sou uma pessoa curiosa e que gosta de aprender, me interesso por tudo relacionado a programação.
+Olá! Meu nome é Leonardo Franco Lima, Tenho 16 anos e atualmente atuo como estagiário de desenvolvimento na empresa MySmartclinic, trabalho realizando suporte, migração de dados e também pequenas features de front end e back end. Sou uma pessoa curiosa e que gosta de aprender, me interesso por tudo relacionado a programação.
 
 ## Hard Skills
 
@@ -19,6 +19,7 @@ Olá! Meu nome é Leonardo Franco Lima, Tenho 15 anos e atualmente estou a procu
 - **CSS**
 - **JavaScript**
 - **Bootstrap**
+- **Php**
 
 ### Databases
 
@@ -62,7 +63,7 @@ Olá! Meu nome é Leonardo Franco Lima, Tenho 15 anos e atualmente estou a procu
  - Website de apresentação pessoal - [Site Pessoal](https://leonardo-franco.github.io/)
        - Este é um site que desenvolvi utilizando Html, JavaScript, Css e Bootstrap. Está disponível através do github pages
        e é responsivo.
-   
+
 
 ## Histórico Escolar
 
@@ -80,7 +81,7 @@ Olá! Meu nome é Leonardo Franco Lima, Tenho 15 anos e atualmente estou a procu
 
 ## Interesses
 
-Quero me desenvolver profissionalmente na área de desenvolvedor Full-Stack, porém com foco em Data Science e Machine Learning.
+Quero aprimorar meus conhecimentos em front end.
 
 ## Contato
 
