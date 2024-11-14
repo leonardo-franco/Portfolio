@@ -62,7 +62,7 @@ Olá! Meu nome é Leonardo Franco Lima, Tenho 16 anos e atualmente atuo como est
 
  - Website de apresentação pessoal - [Site Pessoal](https://leonardo-franco.github.io/)
        - Este é um site que desenvolvi utilizando Html, JavaScript, Css e Bootstrap. Está disponível através do github pages
-       e é responsivo.
+       e é responsivo. (está desatualizado)
 
 
 ## Histórico Escolar
@@ -87,6 +87,6 @@ Quero aprimorar meus conhecimentos em front end.
 
 Sinta-se a vontade para entrar em contato comigo através dos seguintes canais de comunicação:
 
-- **Email:** <leonardoflima14@gmail.com>
+- **Email:** <leonardoflima14@icloud.com>
 - **Instagram:** [lleofranco12](https://www.instagram.com/lleofranco12/)
 - **Telefone:** (54) 991592954
